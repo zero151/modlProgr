@@ -1,0 +1,6 @@
+C:\Users\Public\Music\MathOperationsLib1\MathOperationsLib1\bin\Debug\MathOperationsLib1.dll
+C:\Users\Public\Music\MathOperationsLib1\MathOperationsLib1\bin\Debug\MathOperationsLib1.pdb
+C:\Users\Public\Music\MathOperationsLib1\MathOperationsLib1\obj\Debug\MathOperationsLib1.csproj.AssemblyReference.cache
+C:\Users\Public\Music\MathOperationsLib1\MathOperationsLib1\obj\Debug\MathOperationsLib1.csproj.CoreCompileInputs.cache
+C:\Users\Public\Music\MathOperationsLib1\MathOperationsLib1\obj\Debug\MathOperationsLib1.dll
+C:\Users\Public\Music\MathOperationsLib1\MathOperationsLib1\obj\Debug\MathOperationsLib1.pdb
